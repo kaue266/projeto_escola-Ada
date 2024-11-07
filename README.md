@@ -53,6 +53,8 @@ Antes de iniciar o desenvolvimento, foi utilizado um **mapa mental** ultilzando 
 
 obs.: As funcionalidades foram baseadas na Descrição do projeto que foi fornecida pelo professor.
 
+<img src="MapaMental.png" width="500">
+
 1. **Identificação das Necessidades**: Listamos as necessidades do sistema, como o gerenciamento de dados de alunos e professores, turmas e disciplinas.
 2. **Organização dos Módulos**: Dividimos o sistema em módulos (Alunos, Professores, Turmas, Disciplinas, e Relatórios) para facilitar a implementação e o uso.
 3. **Estrutura do Painel**: Planejamos um painel visualmente organizado e intuitivo, com menus e navegação simples, ideal para ser visualizado no Google Colab.
